@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo apt-get update
+sudo apt-get upgrade
+sudo snap refresh
+echo "All Updates Done!"
